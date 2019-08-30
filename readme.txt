@@ -6,3 +6,4 @@ My boss still prefers SVN.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 wo shi wei le ce shi dev.
+ce shi bug.
