@@ -1,0 +1,4 @@
+查看系统所有设置：
+git config --list
+只查看用户和邮箱：
+git config --global --list
